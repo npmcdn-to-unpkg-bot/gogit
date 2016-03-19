@@ -22,3 +22,10 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+# js builds
+js/node_modules
+js/typings
+
+# typescript build result
+scripts

@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "AMD",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "jsx": "react",
+        "outDir": "../scripts"
+    },
+    "files": [
+        "main.tsx",
+        "application.tsx",
+        "nav.tsx"
+    ]
+}
