@@ -28,5 +28,9 @@ _testmain.go
 node_modules
 typings
 
+# pb builds
+pb
+js/pb
+
 # typescript build result
 scripts

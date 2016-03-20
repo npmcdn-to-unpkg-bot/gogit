@@ -1,0 +1,8 @@
+{
+	"root_dir": "proto",
+	"go_out_dir": "pb",
+	"ts_out_dir": "js/pb",
+	"files": [
+		"repo.proto"
+	]
+}

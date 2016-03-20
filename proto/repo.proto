@@ -1,0 +1,6 @@
+message Repository {
+  required string name = 1;
+  required string repr = 2;
+  optional string desc = 3;
+  required string url = 4;
+}
