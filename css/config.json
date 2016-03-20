@@ -1,0 +1,7 @@
+{
+	"root_dir": "css",
+	"out_dir": "assets/css",
+	"files": [
+		"test.less"
+	]
+}
