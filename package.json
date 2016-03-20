@@ -1,0 +1,22 @@
+{
+  "name": "gogit",
+  "version": "1.0.0",
+  "description": "go-git client-side js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:go": "go build",
+    "build:js": "node_modules/typescript/bin/tsc",
+    "build:css": "node_modules/less/bin/lessc",
+    "build": "npm run build:js && npm run build:css && npm run build:go"
+  },
+  "author": "Gyusun Yeom<omniavinco@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "less": "^2.6.1",
+    "less-plugin-clean-css": "^1.5.1",
+    "typescript": "^1.8.9",
+    "typings": "^0.7.9"
+  }
+}

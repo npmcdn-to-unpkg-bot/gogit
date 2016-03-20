@@ -6,11 +6,12 @@
         "preserveConstEnums": true,
         "sourceMap": true,
         "jsx": "react",
-        "outDir": "../scripts"
+        "outDir": "scripts",
+        "rootDir": "js"
     },
     "files": [
-        "main.tsx",
-        "application.tsx",
-        "nav.tsx"
+        "js/main.tsx",
+        "js/application.tsx",
+        "js/nav.tsx"
     ]
 }
