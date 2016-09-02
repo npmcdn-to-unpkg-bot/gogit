@@ -8,7 +8,7 @@ Url=https://cdnjs.cloudflare.com/ajax/libs/react/0.14.7/react-dom
 [JSLib "react-router"]
 Url=https://cdnjs.cloudflare.com/ajax/libs/react-router/2.0.1/ReactRouter
 [JSLib "history"]
-Url=https://npmcdn.com/history/umd/History.min
+Url=https://unpkg.com/history/umd/History.min
 [JSLib "underscore"]
 Url=https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min
 [JSLib "underscore.string"]
